@@ -1,7 +1,7 @@
 ---
 license: CC BY 4.0
 language:
-- zh
+- Mandarine Chinese
 base_model:
 - google-bert/bert-base-chinese
 ---

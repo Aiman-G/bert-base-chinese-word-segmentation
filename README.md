@@ -9,6 +9,7 @@ base_model:
 
 **Model Name:** `your-username/bert-chinese-segmentation-pku`  
 **Model link** :  (Here)[https://huggingface.co/AimanGh/bert-base-chinese-word-segmentation]
+
 **Language:** Chinese 🇨🇳  
 **Task:** Chinese Word Segmentation
 

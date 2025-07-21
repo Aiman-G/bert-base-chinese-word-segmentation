@@ -1,5 +1,5 @@
 ---
-license: apache-2.0
+license: CC BY 4.0
 language:
 - zh
 base_model:
